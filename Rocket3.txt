@@ -1,0 +1,12 @@
+public class Rocket3{
+	public static void arrow(){
+		System.out.println("    /\\         /\\         /\\         /\\");
+		System.out.println("   /  \\       /  \\       /  \\       /  \\");
+		System.out.println("  /    \\     /    \\     /    \\     /    \\");
+		System.out.println(" /      \\   /      \\   /      \\   /      \\");
+	}
+	
+	
+	public static void main(String[] args){
+		arrow();
+		
